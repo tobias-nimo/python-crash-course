@@ -1,0 +1,4 @@
+In Python you can build ML models.
+In Python you can do exploratory data analysis.
+In Python you can automate the boring stuff.
+In Python you can solve problems with simulations.
