@@ -1,6 +1,6 @@
 # Python Crash Course - Notes
 
-Personal notes and exercises from the book **Python Crash Course** by Eric Matthes.
+Personal notes and exercises from the book [**Python Crash Course**](https://ehmatthes.github.io/pcc_3e/) by Eric Matthes.
 
 ## Structure
 
